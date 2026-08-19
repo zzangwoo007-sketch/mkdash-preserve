@@ -1,0 +1,16 @@
+{
+  "refreshed_at": "2026-08-19T13:59:44",
+  "start": "2026-06-21",
+  "end": "2026-08-19",
+  "days": 60,
+  "rows": {
+    "sales": 980,
+    "orders": 30396,
+    "products": 10638,
+    "ads": 24606,
+    "demo": 6317,
+    "carts": 156,
+    "visitors": 240,
+    "members": 4
+  }
+}
